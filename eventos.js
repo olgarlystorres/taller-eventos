@@ -15,4 +15,4 @@ function elDiv (){
 
 //divButon.onclick = elDiv();*/
 
-divButon.addEventListener("click", elDiv);
+divButon.addEventListener('click', elDiv);
